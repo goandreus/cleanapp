@@ -1,4 +1,4 @@
-import 'package:clean_architecture/app/core/stores/auth_store.dart';
+import 'package:cleanapp/app/core/stores/auth_store.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
