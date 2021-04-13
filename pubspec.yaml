@@ -18,8 +18,24 @@ dependencies:
   cupertino_icons: ^1.0.2
   equatable: ^1.2.5
   dartz:
+  mobx:
+  flutter_mobx:
   connectivity: ^2.0.2
   flutter_modular: ^2.0.1
+  asuka: any
+  firebase_core: ^0.5.2
+  firebase_auth: ^0.18.3
+  firebase_messaging: ^7.0.3
+  cloud_firestore: ^0.14.3
+  google_sign_in: ^4.5.6
+  rxdart:
+  string_validator: ^0.1.4
+  search_cep: ^3.0.0+2
+  mask_text_input_formatter: ^1.2.1
+  cpfcnpj: ^1.0.3
+  json_annotation: ^3.1.1
+
+
 
 dev_dependencies:
   flutter_test:
